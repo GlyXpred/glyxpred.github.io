@@ -1,0 +1,7 @@
+title: GlyXpred
+description: Glycome and lifestyle-based eXplainable machine learning models for disease prediction
+theme: minima
+# Change to your real address, e.g. https://glyxpred.github.io
+url: "https://glyxpred.github.io"
+baseurl: ""
+header_pages: []
