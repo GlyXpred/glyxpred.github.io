@@ -3,6 +3,8 @@ layout: home
 title: Home
 ---
 
+<img src="{{ '/logo3.svg' | relative_url }}" alt="GlyXpred logo" width="400">
+
 **GlyXpred** develops explainable machine learning models that use glycome data to predict the risk of cardiometabolic diseases (type 2 diabetes and cardiovascular disease), and identifies lifestyle habits that may lower that risk and biological age.
 
 ## Why glycans?
