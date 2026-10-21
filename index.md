@@ -1,27 +1,26 @@
 ---
-layout: home
-title: Home
+layout: splash
+title: "GlyXpred"
+permalink: /
+header:
+  overlay_color: "#1F3864"
+  actions:
+    - label: "About the project"
+      url: "/about/"
+excerpt: "Explainable machine learning for glycome-based prediction of cardiometabolic disease risk"
+feature_row:
+  - title: "Predict risk"
+    excerpt: "ML models trained on IgG and plasma glycome data from three independent cohorts to predict type 2 diabetes and cardiovascular disease risk."
+  - title: "Study lifestyle effects"
+    excerpt: "A 6-month intervention study examines how lifestyle habits change glycome composition, biological age and predicted cardiometabolic risk."
+  - title: "Make models understandable"
+    excerpt: "An explainable AI framework, developed with doctors and nurses, so healthcare professionals can interpret model predictions."
 ---
 
-<img src="/logo3.svg" alt="GlyXpred logo" width="400">
+<p style="text-align:center"><img src="/logo3.svg" alt="GlyXpred logo" width="400"></p>
 
 **GlyXpred** develops explainable machine learning models that use glycome data to predict the risk of cardiometabolic diseases (type 2 diabetes and cardiovascular disease), and identifies lifestyle habits that may lower that risk and biological age.
 
-## Why glycans?
+{% include feature_row type="center" %}
 
-The glycome, the set of carbohydrate chains attached to proteins, modulates chronic inflammation. It is dynamic and changes in response to lifestyle and pharmacological interventions, which makes it a promising biomarker for prevention and personalised intervention.
-
-## Project objectives
-
-1. **Predict risk.** Train ML models on IgG and plasma glycome data from three independent cohorts (TwinsUK, ORCADES, 10001 Dalmatians).
-2. **Study lifestyle effects.** Analyse glycome, biological age and cardiometabolic risk changes in a 6-month intervention study.
-3. **Make models understandable.** Develop an explainable AI framework with healthcare professionals.
-
-## Host institution
-
-The project is hosted at the University of Maribor, Faculty of Health Sciences, Slovenia.
-
-
----
-
-*Funding acknowledgement: [ARIS (Slovenian Research and Innovation Agency)].*
+*Funding acknowledgement: ARIS Slovenian Funding and Innovation Agency*

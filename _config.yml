@@ -1,7 +1,25 @@
-title: GlyXpred
-description: Glycome and lifestyle-based eXplainable machine learning models for disease prediction
-theme: minima
-# Change to your real address, e.g. https://glyxpred.github.io
-url: "https://glyxpred.github.io"
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+minimal_mistakes_skin: "default"
+
+title: "GlyXpred"
+description: "Glycome and lifestyle-based eXplainable machine learning models for disease prediction"
+locale: "en-GB"
+url: ""
 baseurl: ""
-header_pages: []
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      share: false
+      comments: false
+
+search: false
