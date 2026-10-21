@@ -4,8 +4,8 @@ minimal_mistakes_skin: "default"
 title: "GlyXpred"
 description: "Glycome and lifestyle-based eXplainable machine learning models for disease prediction"
 locale: "en-GB"
-url: "https://azrafrkatovic.github.io/glyxpred.github.io/"
-baseurl: ""
+url: "https://azrafrkatovic.github.io"
+baseurl: "/glyxpred.github.io"
 
 plugins:
   - jekyll-remote-theme
