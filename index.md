@@ -17,7 +17,7 @@ feature_row:
     excerpt: "An explainable AI framework, developed with doctors and nurses, so healthcare professionals can interpret model predictions."
 ---
 
-<p style="text-align:center"><img src="/glyxpred.github.io/logo3.svg" alt="GlyXpred logo" width="400"></p>
+<p style="text-align:center"><img src="/logo3.svg" alt="GlyXpred logo" width="400"></p>
 
 **GlyXpred** develops explainable machine learning models that use glycome data to predict the risk of cardiometabolic diseases (type 2 diabetes and cardiovascular disease), and identifies lifestyle habits that may lower that risk and biological age.
 
