@@ -23,4 +23,4 @@ feature_row:
 
 {% include feature_row type="center" %}
 
-*Funding acknowledgement: Funded by Slovenian Funding and Innovation Agency (ARIS); Project No: N3-0523*
+*Project is funded by Slovenian Funding and Innovation Agency (ARIS); Project No: N3-0523*
