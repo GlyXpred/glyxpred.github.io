@@ -2,7 +2,6 @@ remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "default"
 
 title: "GlyXpred"
-logo: "/logo3.svg"
 description: "Glycome and lifestyle-based eXplainable machine learning models for disease prediction"
 locale: "en-GB"
 url: "https://glyxpred.github.io"
