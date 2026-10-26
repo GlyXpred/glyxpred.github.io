@@ -23,5 +23,5 @@ University of Maribor, Faculty of Health Sciences, Slovenia.
 
 ## Team
 
-- **Dr Azra Frkatović-Hodžić**, researcher
+- **Azra Frkatović-Hodžić**, researcher
 - **Prof. Gregor Štiglic**, supervisor, University of Maribor, Faculty of Health Sciences
